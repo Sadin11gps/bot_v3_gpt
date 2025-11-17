@@ -1,3 +1,4 @@
 pyTelegramBotAPI
+python-telegram-bot==20.5
 psycopg2-binary
 python-dotenv

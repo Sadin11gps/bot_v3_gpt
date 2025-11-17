@@ -9,7 +9,7 @@ bot = TeleBot(BOT_TOKEN)
 # --- বাটন হ্যান্ডলার কল --- #
 menu.handle(bot)
 profile.handle(bot)
-task.handle(bot)
+task.handle(bot, message)
 premium.handle(bot)
 verify.handle(bot)
 refer.handle(bot)
